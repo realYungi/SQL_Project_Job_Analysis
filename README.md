@@ -1,5 +1,5 @@
 # Introduction
-Following the tutorial [@lukebarousse](https://github.com/lukebarousse) has made (Link to the tutorial below!! Really helps out as a beginner), I learned about the basic, intermediate, and advanced SQL skills to build a project where I analyze the top-paying jobs, demanding skills for the jobs, and teh high demanded jobs with high salaries in data analytics field. I was able to download the csvs for the analyzed sql queries, and provide an insight about the job market as a whole as I went through the tutorial.
+Following the tutorial [@lukebarousse](https://github.com/lukebarousse) has made (Link to the tutorial below!! Really helps out as a beginner), I learned about the basic, intermediate, and advanced SQL skills to build a project where I analyze the top-paying jobs, demanding skills for the jobs, and the high demanded jobs with high salaries in data analytics field. I was able to download the csvs for the analyzed sql queries, and provide an insight about the job market as a whole as I went through the tutorial.
 
 
 Check the SQL queries out here : [project_sql folder](/project_sql/)
