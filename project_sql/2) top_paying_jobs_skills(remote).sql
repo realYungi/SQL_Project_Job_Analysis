@@ -30,9 +30,7 @@ FROM top_paying_jobs
 
 LEFT JOIN skills_job_dim ON skills_job_dim.job_id = top_paying_jobs.job_id
 LEFT JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
-WHERE skills_dim.skills IS NOT NULL;
-
-
+WHERE skills_dim.skills IS NOT NULL
 /*
 MOST DEMANDED SKILLS
 

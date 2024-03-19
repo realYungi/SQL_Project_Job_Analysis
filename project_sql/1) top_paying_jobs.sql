@@ -18,5 +18,5 @@ AND jobs.job_location = 'Anywhere'
 AND jobs.job_title_short = 'Data Analyst'
 
 ORDER BY jobs.salary_year_avg DESC
-LIMIT 10;
+LIMIT 20;
 
